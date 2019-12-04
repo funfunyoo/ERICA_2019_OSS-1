@@ -171,3 +171,6 @@ JavaHolic Private
   
 - [ERICA_Supermarket-inventory-management-procedure](https://github.com/2990674795/ERICA_Supermarket-inventory-management-procedure)
   * 사우항 2019086771
+
+- [ERICA_Simple_Account_Book_App](https://github.com/isume/ERICA_Simple_Account_Book_App)
+  * 2019042279 백승우
