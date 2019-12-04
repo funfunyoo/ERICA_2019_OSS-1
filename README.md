@@ -174,3 +174,6 @@ JavaHolic Private
 
 - [ERICA_Simple_Account_Book_App](https://github.com/isume/ERICA_Simple_Account_Book_App)
   * 2019042279 백승우
+  
+- [ERICA_GPA-Calculator](https://github.com/mushbaur/ERICA_GPA-Calculator)
+  * 2019041994 홍시영
