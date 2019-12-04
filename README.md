@@ -3,6 +3,10 @@
 
 한양대학교 소프트웨어학부 2019 오픈소스SW 기초 수업 1학년 대상 오픈 소스 프로젝트 링크 페이지입니다.
 
+- [ERICA_This-is-our-first-step.](https://github.com/LIMDANBI/ERICA_This-is-our-first-step.)
+  * 2019056462 임단비
+  * 2019036380 이다은
+
 - [ERICA_PlannerWEB](https://github.com/lolmc00/ERICA_PlannerWEB)
   * 2019044211 임승현
   
