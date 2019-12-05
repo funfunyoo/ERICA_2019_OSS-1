@@ -73,7 +73,8 @@
   * 김예진 2019069034
   * 김정민 2019041094
   * 정연주 2019014739
-  
+
+
 - [ERICA_JOS](https://github.com/Choi-Jongin/ERICA_JOS)
   * 2018045196 최종인
 
@@ -116,7 +117,6 @@
   * 2019003954 남유진
   * 2019054420 김가령
   
-JavaHolic Private
 - [ERICA_TbS](https://github.com/binnr791/ERICA_TbS)
   * 2019026071 빈현우
   
