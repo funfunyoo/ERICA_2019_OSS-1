@@ -187,3 +187,5 @@
 - [SAMAK](https://github.com/Jeonhyeonwoo/SAMAK)
   * 2019037529 전현우
   
+- [ERICA_firstopen](https://github.com/GoodTY/ERICA_firstopen)
+  * 2019026908 김택윤
