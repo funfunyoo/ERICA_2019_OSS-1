@@ -180,3 +180,6 @@
 
 - [ERICA_CHATT_](https://github.com/ahnseyun/ERICA_CHATT_)
   * 2019064548 안세윤
+  
+- [ERICA_Composite-game](https://github.com/dydtn8653/ERICA_Composite-game)
+  * 2019084393 이용수
