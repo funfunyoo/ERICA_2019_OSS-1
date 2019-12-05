@@ -48,7 +48,7 @@
   * 2019020800 장석준
 
 - [ERICA_project](https://github.com/johnhuh619/ERICA_project)
-  * 2019003163 김동한
+  * 2019003163 허재원
 
 - [ERICA_LSM](https://github.com/Lee-SungMin/ERICA_LSM)
   * 2019000773 이성민 
