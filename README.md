@@ -177,3 +177,6 @@ JavaHolic Private
   
 - [ERICA_GPA-Calculator](https://github.com/mushbaur/ERICA_GPA-Calculator)
   * 2019041994 홍시영
+
+- [ERICA_CHATT_](https://github.com/ahnseyun/ERICA_CHATT_)
+  * 2019064548 안세윤
