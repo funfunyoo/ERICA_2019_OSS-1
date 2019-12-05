@@ -50,7 +50,7 @@
 - [ERICA_project](https://github.com/johnhuh619/ERICA_project)
   * 2019003163 허재원
 
-- [ERICA_LSM](https://github.com/Lee-SungMin/ERICA_LSM)
+- [ERICA_ChoSung](https://github.com/Lee-SungMin/ERICA_ChoSung)
   * 2019000773 이성민 
 
 - [ERICA_minigame](https://github.com/bakukun/ERICA_minigame)
