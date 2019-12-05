@@ -183,3 +183,7 @@
   
 - [ERICA_Composite-game](https://github.com/dydtn8653/ERICA_Composite-game)
   * 2019084393 이용수
+  
+- [SAMAK](https://github.com/Jeonhyeonwoo/SAMAK)
+  * 2019037529 전현우
+  
