@@ -189,3 +189,6 @@
   
 - [ERICA_firstopen](https://github.com/GoodTY/ERICA_firstopen)
   * 2019026908 김택윤
+
+- [ERICA_OSS_PJ](https://github.com/subin001002/ERICA_OSS_PJ)
+  * 2019081458 배수빈
