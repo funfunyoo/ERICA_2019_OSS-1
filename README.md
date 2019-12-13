@@ -26,6 +26,7 @@
   * 2019040973 유은정
   * 2019082451 손승아
   * 2019038277 김문주
+  * 2019007329 이지현
 
 - [ERICA-OPENSOURCE-GameProject](https://github.com/jaewan0114/ERICA-OPENSOURCE-GameProject)
   * 2019028340 임재완
