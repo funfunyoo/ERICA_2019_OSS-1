@@ -193,3 +193,7 @@
 
 - [ERICA_OSS_PJ](https://github.com/subin001002/ERICA_OSS_PJ)
   * 2019081458 배수빈
+
+- [Erica_Chat_Program](https://github.com/beom-i/Erica_Chat_Program)
+  * 2019096699 이예범
+  
